@@ -95,7 +95,7 @@
 ## 2.2 Интерфейс пользователя
 Главная страница приложения.  
 
-![Главное окно CurrencyTracker](mockups/main page mockup.png)  
+![Главное окно CurrencyTracker](https://github.com/altoryyy/currency-tracker/blob/main/Mockups/main%20page%20mockup.png)  
 
 <a name="user_specifications"/>
 
