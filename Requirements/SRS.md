@@ -97,8 +97,10 @@
 
 ![Главное окно CurrencyTracker](https://github.com/altoryyy/currency-tracker/blob/main/Mockups/main%20page%20mockup.png)  
 
+Окно регистрации
 ![Окно регистрации](https://github.com/altoryyy/currency-tracker/blob/main/Mockups/reg.png)  
 
+Окно добавления пары для сравнения
 ![Окно добавления пары для сравнения](https://github.com/altoryyy/currency-tracker/blob/main/Mockups/pair%20add.png)  
 
 
