@@ -42,7 +42,7 @@
 <a name="appointment"/>
 
 ## 1.1 Назначение
-В этом документе описаны функциональные и нефункциональные требования к веб-приложению «RecipeShare». Этот документ предназначен для команды, которая будет реализовывать и тестировать корректность работы сервиса.
+В этом документе описаны функциональные и нефункциональные требования к веб-приложению «RecipeService». Этот документ предназначен для команды, которая будет реализовывать и тестировать корректность работы сервиса.
 
 <a name="business_requirements"/>
 
@@ -56,7 +56,7 @@
 <a name="business_opportunities"/>
 
 ### 1.2.2 Возможности бизнеса
-Приложение «RecipeShare» позволит:  
+Приложение «RecipeService» позволит:  
 - централизованно хранить рецепты пользователей;  
 - делиться ими с сообществом;  
 - искать блюда по ингредиентам и национальным кухням;  
@@ -94,12 +94,17 @@
 
 <a name="user_interface"/>
 
-## 2.2 Интерфейс пользователя
-Приложение содержит:  
-- главную страницу с подборкой рецептов;  
-- страницу добавления рецепта;  
-- страницу просмотра рецепта с пошаговым режимом;  
-- форму поиска и фильтров.  
+## 2.2 Интерфейс пользователя  
+
+![Главное окно RecipeService](https://github.com/altoryyy/recipe-service/blob/main/Mockups/main%20page.png)
+
+![Добавление рецепта](https://github.com/altoryyy/recipe-service/blob/main/Mockups/recipe%20add.png)
+
+![Просмотр рецепта](https://github.com/altoryyy/recipe-service/blob/main/Mockups/reicipe%20view.png)
+
+![Добавление отзыва](https://github.com/altoryyy/recipe-service/blob/main/Mockups/review%20add.png)
+
+![Изменение отзыва](https://github.com/altoryyy/recipe-service/blob/main/Mockups/review%20edit.png)
 
 <a name="user_specifications"/>
 
@@ -218,4 +223,3 @@
 2. Бэкенд написан на Java.  
 3. Фронтенд — на JavaScript (React).  
 4. Язык интерфейса — русский / английский.  
-5. Качество кода контролируется через [SonarCloud](https://sonarcloud.io/project/overview?id=altoryyy_labjava).  
