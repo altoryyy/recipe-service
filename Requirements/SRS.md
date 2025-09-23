@@ -96,18 +96,25 @@
 
 ## 2.2 Интерфейс пользователя  
 
+Главное окно RecipeService
 ![Главное окно RecipeService](https://github.com/altoryyy/recipe-service/blob/main/Mockups/main%20page.png)
 
+Добавление рецепта
 ![Добавление рецепта](https://github.com/altoryyy/recipe-service/blob/main/Mockups/recipe%20add.png)
 
+Просмотр рецепта
 ![Просмотр рецепта](https://github.com/altoryyy/recipe-service/blob/main/Mockups/reicipe%20view.png)
 
+Добавление отзыва
 ![Добавление отзыва](https://github.com/altoryyy/recipe-service/blob/main/Mockups/review%20add.png)
 
+Изменение отзыва
 ![Изменение отзыва](https://github.com/altoryyy/recipe-service/blob/main/Mockups/review%20edit.png)
 
+Пример использования поиска
 ![Пример использования поиска](https://github.com/altoryyy/recipe-service/blob/main/Mockups/search.png)
 
+Изменение рецепта
 ![Изменение рецепта](https://github.com/altoryyy/recipe-service/blob/main/Mockups/recipe%20upd.png)
 
 <a name="user_specifications"/>
