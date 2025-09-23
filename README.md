@@ -6,3 +6,14 @@
 **Тип проекта:** Web-приложение  
 **Язык разработки:** Java + JavaScript (React + Node.js)  
 **Язык интерфейса:** русский
+
+# Мокапы
+[Главный экран](Mockups/main%20page.png)
+
+[Просмотр рецепта](Mockups/reicipe%20view.png)
+
+[Добавление рецепта](Mockups/recipe%20add.png)
+
+# Документация
+
+[SRS.md](Requirements/SRS.md)
