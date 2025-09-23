@@ -106,6 +106,10 @@
 
 ![Изменение отзыва](https://github.com/altoryyy/recipe-service/blob/main/Mockups/review%20edit.png)
 
+![Пример использования поиска](https://github.com/altoryyy/recipe-service/blob/main/Mockups/search.png)
+
+![Изменение рецепта](https://github.com/altoryyy/recipe-service/blob/main/Mockups/recipe%20upd.png)
+
 <a name="user_specifications"/>
 
 ## 2.3 Характеристики пользователей
