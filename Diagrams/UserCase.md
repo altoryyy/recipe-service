@@ -1,4 +1,4 @@
-![Изменение рецепта](https://github.com/altoryyy/recipe-service/blob/main/Diagrams/images/recipe%20upd.png)
+![Изменение рецепта](https://github.com/altoryyy/recipe-service/blob/main/Diagrams/images/UseCase.png?raw=true)
 
 # Актеры
 
